@@ -25,7 +25,7 @@ Exemple d'IDE:
 - Android Studio
 ![](whitespace.jpg)
 
-##Pourquoi l'IDE plutôt que l'editeur de texte?
+## Pourquoi l'IDE plutôt que l'editeur de texte?
 
 La majorité du temps utilisé à programmer une application est utilisé dans le testing et le debugging. L'IDE nous offre nativement les outils nécessaire pour compiler le code et le débugguer. L'IDE a par exemple nativement la coloration syntaxique dans l'editeur de texte. Il peut s'interfacer à une base de donnée pour exécuter le code à tester.
 
@@ -59,7 +59,7 @@ Les différents outils que nous avons sont :
 ![](whitespace.jpg)
 
 
-##Conclusion
+## Conclusion
 
 Les IDE sont comme vous l'avez vu des outils très puissants. Ils augmentent significativement la productivité et la simplification dans l'élaboration des logiciels. Ils ne sont pas aussi rapide et simple d'utilisation qu'un éditeur de texte classique. Pour moi, il reste important d'être en mesure de coder avec un éditeur de texte classique (modification sur une machine à distance, IDE non installé, etc...)
 
