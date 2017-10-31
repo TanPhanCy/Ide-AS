@@ -68,12 +68,37 @@ Les IDE sont comme vous l'avez vu des outils très puissants. Ils augmentent sig
 ![](whitespace.jpg)
 ![](whitespace.jpg)
 
-## Vidéos et liens:
+## Liens:
 
 [https://openclassrooms.com/courses/creez-des-applications-pour-android/installation-et-configuration-des-outils](https://openclassrooms.com/courses/creez-des-applications-pour-android/installation-et-configuration-des-outils)
-->
+
 
 [https://developer.android.com/studio/index.html#downloads](https://developer.android.com/studio/index.html#downloads)
 
 
 [https://openclassrooms.com/courses/creez-des-applications-pour-android/l-univers-android](https://openclassrooms.com/courses/creez-des-applications-pour-android/l-univers-android)
+
+[https://www.visualstudio.com/fr/?rr=https%3A%2F%2Fwww.scriptol.fr%2Fprogrammation%2Fedi.php]Visual Studio Community 
+C++, C#, Basic, HTML 5. Devenu gratuit en 2014. 
+Pour Windows.
+
+[https://www.kdevelop.org/] KDevelop.
+Un EDI dédié principalement aux applications en C++ mais qui supporte aussi d'autres langages dont OpenCL.
+Pour Linux et Windows.
+
+
+[http://www.aptana.com/] Aptana Studio.
+Pour réaliser des Applications Web avec HTML 5, PHP, Ruby.Automatisation de la mise en ligne et support de Git. 
+Pour Windows.
+
+[http://lighttable.com/] Light Table. 
+Un éditeur évolué (basé sur CodeMirror et Node) qui intègre un moteur de rendu HTML (NWJS ex-Node-Webkit) et une sorte de serveur interne. Il est prévu pour les langages dynamiques comme ClojureScript, JavaScript, Python et peut être complété de plugins pour d'autres langages. Il permet l'évaluation de code et la connexion à un utilisateur virtuel pour tester le code et le modifier en cours d'exécution. L'intégration du navigateur permet de voir le résultat des modifications sans recharger la page ce qui est idéal pour un projet Node.js. 
+Pour Windows/Linux/Mac.
+
+[https://netbeans.org/]Net Beans.
+Applications Java, PHP, C++. Dispose d'un correcteur de syntaxe, l'accès aux fichiers source n'apparait qu'au besoin et libère l'écran autrement. Maven intégré pour la gestion de projet. Il convient bien pour les applications Web. 
+Support pour Git, CVS, SVN. 
+Pour Windows/Mac/Linux.
+
+[https://developer.apple.com/xcode/] XCode.
+Pour MacOS.
