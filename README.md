@@ -24,6 +24,8 @@ Exemple d'IDE:
 - Aptana Studio(HTML 5, PHP, Ruby)
 - Android Studio
 ![](whitespace.jpg)
+![](whitespace.jpg)
+![](whitespace.jpg)
 
 ## Pourquoi l'IDE plutôt que l'editeur de texte?
 
@@ -34,7 +36,8 @@ On sera donc plus productif avec des fonctionnalités comme la complétion intel
 Bien sûr on préféra utiliser un éditeur de texte pour sa facilité d'utilisation et sa rapidité par rapport à un IDE pour tout ce qui petit projet. De même il vaut mieux dans l'apprentissage d'un langage de programmation passé par un éditeur afin de connaître les rouages de celui-ci. On reproche d'ailleurs aux IDE la paresse engendrée par ces outils car à force de les utiliser, on aurait tendance à oublier le mécanisme du langage.
 
 
-
+![](whitespace.jpg)
+![](whitespace.jpg)
 
 
 
@@ -62,7 +65,8 @@ Les différents outils que nous avons sont :
 ## Conclusion
 
 Les IDE sont comme vous l'avez vu des outils très puissants. Ils augmentent significativement la productivité et la simplification dans l'élaboration des logiciels. Ils ne sont pas aussi rapide et simple d'utilisation qu'un éditeur de texte classique. Pour moi, il reste important d'être en mesure de coder avec un éditeur de texte classique (modification sur une machine à distance, IDE non installé, etc...)
-
+![](whitespace.jpg)
+![](whitespace.jpg)
 
 ## Vidéos et liens:
 
