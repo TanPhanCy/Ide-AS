@@ -43,10 +43,14 @@ Pour MacOS.
 ## Pourquoi l'IDE plutôt que l'editeur de texte?
 
 La majorité du temps utilisé à programmer une application est utilisé dans le testing et le debugging. L'IDE nous offre nativement les outils nécessaire pour compiler le code et le débugguer. L'IDE a par exemple nativement la coloration syntaxique dans l'editeur de texte. Il peut s'interfacer à une base de donnée pour exécuter le code à tester.
+![](whitespace.jpg)
 
 On sera donc plus productif avec des fonctionnalités comme la complétion intelligente qui permet de limiter la quantité d'informations saisies au clavier. Les éditeurs de textes permettent généralement de s'adapter à de nombreux langages mais ne possèdent pas forcément de fonctionnalités avancés comme la complétion intelligente, le debugguer etc..)
+![](whitespace.jpg)
 
 Bien sûr on préféra utiliser un éditeur de texte pour sa facilité d'utilisation et sa rapidité par rapport à un IDE pour tout ce qui petit projet. De même il vaut mieux dans l'apprentissage d'un langage de programmation passé par un éditeur afin de connaître les rouages de celui-ci. On reproche d'ailleurs aux IDE la paresse engendrée par ces outils car à force de les utiliser, on aurait tendance à oublier le mécanisme du langage.
+![](whitespace.jpg)
+![](whitespace.jpg)
 
 
 
@@ -59,8 +63,8 @@ De 2009 à 2014, l'IDE officiel proposé par Google était une distribution spé
 SDK (Software Development Kit)
 C'est un ensemble d'outils logiciel qui est conçu pour un ou plusieurs langages et qui facilite le développement d'un logiciel sur une plateforme donnée(plateforme, jeux vidéos ...).
 
-![](whitespace.jpg)
-Les différents outils que nous avons sont :
+
+Les différents outils que nous avons sont:
 - Un débogueur
 - des bibliothèques logicielles
 - un émulateur
