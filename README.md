@@ -62,9 +62,9 @@ Les différents outils que nous avons sont :
 ![](whitespace.jpg)
 
 
-## Conclusion
+## Resumé
 
-Les IDE sont comme vous l'avez vu des outils très puissants. Ils augmentent significativement la productivité et la simplification dans l'élaboration des logiciels. Ils ne sont pas aussi rapide et simple d'utilisation qu'un éditeur de texte classique. Pour moi, il reste important d'être en mesure de coder avec un éditeur de texte classique (modification sur une machine à distance, IDE non installé, etc...)
+Les IDE sont  des outils très puissants. Ils augmentent significativement la productivité et la simplification dans l'élaboration des logiciels. Ils ne sont pas aussi rapide et simple d'utilisation qu'un éditeur de texte classique. Pour moi, il reste important d'être en mesure de coder avec un éditeur de texte classique (modification sur une machine à distance, IDE non installé, etc...)
 ![](whitespace.jpg)
 ![](whitespace.jpg)
 
