@@ -85,8 +85,8 @@ Les IDE sont  des outils très puissants. Ils augmentent significativement la pr
 
 ## Liens:
 
-[https://openclassrooms.com/courses/creez-des-applications-pour-android/installation-et-configuration-des-outils](Créer des applications pour Android)
+[Créer des applications pour Android](https://openclassrooms.com/courses/creez-des-applications-pour-android/installation-et-configuration-des-outils)
 
-[https://openclassrooms.com/courses/creez-des-applications-pour-android/l-univers-android](https://openclassrooms.com/courses/creez-des-applications-pour-android/l-univers-android)
+[Google](www.google.com)
 
 
