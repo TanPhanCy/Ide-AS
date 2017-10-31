@@ -9,7 +9,8 @@ L'IDE comporte:
 
 Il existe pratiquement autant d'IDE que de langage de programmation différents.
 Certains IDE comme Netbeans par exemple prend en charge plusieurs langages grâce à l'installation de plugins.
-
+![](whitespace.jpg)
+![](whitespace.jpg)
 Exemple d'IDE:
 - (https://www.visualstudio.com)[Visual Studio Community]
 C++, C#, Basic, HTML 5. Devenu gratuit en 2014. 
@@ -73,7 +74,7 @@ Les différents outils que nous avons sont:
 - des tutoriaux
 
 ![](whitespace.jpg)
-
+![](whitespace.jpg)
 
 ## Resumé
 
