@@ -56,7 +56,7 @@ Bien sûr on préféra utiliser un éditeur de texte pour sa facilité d'utilisa
 
 
 ## Android Studio
-![](whitespace.jpg)
+
 ### Introduction
 Android studio est l'IDE officiel de Google qui nous permet de développer des applications Android.
 De 2009 à 2014, l'IDE officiel proposé par Google était une distribution spécifique d'Eclipse qui contenait le SDK d'Android. Aujourd'hui c'est Android studio. Les langages sont Java et Kotlin.
