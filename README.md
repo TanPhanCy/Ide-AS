@@ -1,5 +1,4 @@
 # Introduction aux IDE/Android Studio
-![](whitespace.jpg)
 
 ## IDE (integrated development environment)
 Un environnement de développement est un ensemble d'outils qui nous aide à développer des logiciels dans un langage donné.
@@ -48,10 +47,6 @@ La majorité du temps utilisé à programmer une application est utilisé dans l
 On sera donc plus productif avec des fonctionnalités comme la complétion intelligente qui permet de limiter la quantité d'informations saisies au clavier. Les éditeurs de textes permettent généralement de s'adapter à de nombreux langages mais ne possèdent pas forcément de fonctionnalités avancés comme la complétion intelligente, le debugguer etc..)
 
 Bien sûr on préféra utiliser un éditeur de texte pour sa facilité d'utilisation et sa rapidité par rapport à un IDE pour tout ce qui petit projet. De même il vaut mieux dans l'apprentissage d'un langage de programmation passé par un éditeur afin de connaître les rouages de celui-ci. On reproche d'ailleurs aux IDE la paresse engendrée par ces outils car à force de les utiliser, on aurait tendance à oublier le mécanisme du langage.
-
-
-![](whitespace.jpg)
-![](whitespace.jpg)
 
 
 
